@@ -1,0 +1,13 @@
+{
+  "prx": [
+    {
+      "section": 0,
+      "ptype": 3,
+      "srv": "185.129.49.7",
+      "port": 8080,
+      "uname": "flg-users",
+      "pwd": "Bingo15!@",
+      "sUrl": ""
+    }
+  ]
+}
